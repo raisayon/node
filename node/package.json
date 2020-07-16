@@ -1,0 +1,31 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "weather a\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[Ccurrent location weather app",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "csvtojson": "^2.0.10",
+    "express": "^4.17.1",
+    "json2csv": "^5.0.1",
+    "jsontocsv": "^0.3.0",
+    "mongodb": "^3.5.9",
+    "mongoose": "^5.9.24",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raisayon/node.git"
+  },
+  "author": "sayon rai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raisayon/node/issues"
+  },
+  "homepage": "https://github.com/raisayon/node#readme"
+}
