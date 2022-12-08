@@ -4,9 +4,9 @@
   "description": "weather a\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[Ccurrent location weather app",
   "main": "index.js",
   "dependencies": {
-    "body-parser": "^1.19.0",
+    "body-parser": "^1.20.1",
     "csvtojson": "^2.0.10",
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "json2csv": "^5.0.1",
     "jsontocsv": "^0.3.0",
     "mongodb": "^3.5.9",
